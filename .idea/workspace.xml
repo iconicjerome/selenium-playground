@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfe251f-fc84-4141-a987-a95580fec4e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/JQuerySelectDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Globals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testSuite/testDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/JQuerySelectDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObjects/JQuerySelectDropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testSuite/testDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testSuite/testDropDown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +38,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.C:/Users/Public/Documents/SeleniumPlayGround/SeleniumPlayGround/testng.xml.executor": "Debug",
-    "git-widget-placeholder": "master",
+    "TestNG.C:/Users/Public/Documents/SeleniumPlayGround/SeleniumPlayGround/testng.xml.executor": "Run",
+    "TestNG.testDropDown.dropDownTest.executor": "Run",
+    "git-widget-placeholder": "qa",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/Public/Documents/SeleniumPlayGround/SeleniumPlayGround/testng.xml">
     <configuration name="C:/Users/Public/Documents/SeleniumPlayGround/SeleniumPlayGround/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPlayGround" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -64,9 +56,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testDropDown.dropDownTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPlayGround" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSuite" />
+      <option name="MAIN_CLASS_NAME" value="testSuite.testDropDown" />
+      <option name="METHOD_NAME" value="dropDownTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/Public/Documents/SeleniumPlayGround/SeleniumPlayGround/testng.xml" />
+        <item itemvalue="TestNG.testDropDown.dropDownTest" />
       </list>
     </recent_temporary>
   </component>

@@ -13,7 +13,8 @@ public class JQuerySelectDropdown {
         PageFactory.initElements(driver, this );
     }
     // page elements
-    @FindBy(xpath = "//span[@class='select2 select2-container select2-container--default select2-container--focus']//span[@role='combobox']")
+
+    @FindBy(id = "select2-country-container")
     public WebElement countryDropdown;
 
 }
