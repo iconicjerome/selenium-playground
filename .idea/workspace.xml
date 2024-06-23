@@ -38,8 +38,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.C:/Users/Public/Documents/SeleniumPlayGround/SeleniumPlayGround/testng.xml.executor": "Run",
-    "TestNG.testDropDown.dropDownTest.executor": "Run",
+    "TestNG.C:/Users/Public/Documents/SeleniumPlayGround/SeleniumPlayGround/testng.xml.executor": "Debug",
+    "TestNG.testDropDown.dropDownTest.executor": "Debug",
     "git-widget-placeholder": "qa",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
